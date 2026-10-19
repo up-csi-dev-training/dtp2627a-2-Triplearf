@@ -1,3 +1,23 @@
+# Featured Song
+<table>
+  <tr>
+    <td width="300">
+      <img src="src/img/AlbumCover.png" width="300" alt="Jane! - The Long Faces">
+    </td>
+    <td valign="middle">
+      <h1>Jane!</h1>
+      <h3>The Long Faces · 2018</h3>
+        <a href="https://open.spotify.com/track/1VXu0l60UkpybzcyX38pzc?si=1a8e83516ee74c58">
+            <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Listen on Spotify">
+        </a>
+        <a href="https://music.youtube.com/watch?v=_aKgAniBxY8">
+            <img src="https://img.shields.io/badge/YouTube%20Music-FF0000?style=for-the-badge&logo=youtubemusic&logoColor=white" alt="Listen on YouTube Music">
+        </a>
+    </td>
+  </tr>
+</table>
+
+
 # DTP Assignment 2
 
 This assignment is all about GitHub. It is divided into two parts.
